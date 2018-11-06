@@ -31,20 +31,44 @@
     {
      "name": "Oficial",
      "children": [
-      {"name": "INST TEC CENTRAL", "size": 915},
-      {"name": "LIC DEL EJERCITO PATRIA SECTOR NORTE B", "size": 913},
-      {"name": "COL REAL ESCANDINAVO", "size": 860},
-      {"name": "COLEGIO SAN JOSE NORTE (IED)", "size": 807}
+      {"name": "I.E. COLEGIO LOYOLA PARA LA CIENCIA Y LA INNOVACIÓN", "size": 813},
+      {"name": "INST EDUC SANTO ANGEL", "size": 802},
+      {"name": "INST EDUC MATER DEI", "size": 801},
+      {"name": "INST EDUC JUAN MARIA CESPEDES", "size": 793}
      ]
     },
     {
      "name": "Privado",
      "children": [
-      {"name": "COL LOS NOGALES", "size": 974},
-      {"name": "COL SAN CARLOS", "size": 967},
-      {"name": "LIC CAMPO DAVID", "size": 961},
-      {"name": "COL NUEVO COLOMBO AMERICANO", "size": 949},
-      {"name": "COL NUEVA INGLATERRA", "size": 947}
+      {"name": "COL SAN IGNACIO DE LOYOLA", "size": 927},
+      {"name": "COL MONTESSORI", "size": 926},
+      {"name": "COL DE LA COMPANIA DE MARIA", "size": 925},
+      {"name": "COMUNIDAD COLEGIO DE JESUS MARIA", "size": 924},
+      {"name": "COL GIMN LOS PINARES", "size": 918}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Manizales",
+	"children": [
+    {
+     "name": "Oficial",
+     "children": [
+      {"name": "COL. SAN LUIS GONZAGA", "size": 813},
+      {"name": "INSTITUCIÓN EDUCATIVA COLEGIO DE CRISTO", "size": 789},
+      {"name": "INSTITUCIÓN EDUCATIVA NTRA SEÑORA DE FATIMA", "size": 772},
+      {"name": "INSTITUCIÓN EDUCATIVA DIVINA PROVIDENCIA", "size": 771}
+     ]
+    },
+    {
+     "name": "Privado",
+     "children": [
+      {"name": "LIC.  ARQUIDIOCESANO DE NTRA SEÑORA", "size": 919},
+      {"name": "COL. SAN MIGUEL - HORMIGUITA", "size": 897},
+      {"name": "COL. NTRA SRA. DE LOS ANGELES", "size": 825},
+      {"name": "COL. FILIPENSE NTRA SRA DE LOURDES", "size": 817},
+      {"name": "INST. TECNICO  SAN RAFAEL", "size": 806}
      ]
     }
    ]
