@@ -96,6 +96,31 @@
      ]
     }
    ]
+  },
+  {
+   "name": "Leticia",
+	"children": [
+    {
+     "name": "Oficial",
+     "children": [
+      {"name": "INSTITUCION EDUCATIVA FRANCISCO JOSE DE CALDAS", "size": 494},
+      {"name": "I.E. SAGRADO CORAZON DE JESUS", "size": 481},
+      {"name": "I.E. ESCUELA NORMAL SUPERIOR MARCELIANO EDUARDO CANYES SANTACANA", "size": 400},
+      {"name": "I.E. FRANCISCO DEL ROSARIO VELA", "size": 398},
+	  {"name": "INSTITUCION EDUCATIVA INDIGENA MARIA AUXILIADORA", "size": 389},
+	  {"name": "I.E. FRANCISCO DE ORELLANA", "size": 387},
+	  {"name": "I.E. INDIGENA SAN JUAN BOSCO", "size": 368},
+	  {"name": "I.E. INEM JOSE EUSTASIO RIVERA", "size": 367}
+     ]
+    },
+    {
+     "name": "Privado",
+     "children": [
+      {"name": "COL CRISTO REY", "size": 805},
+      {"name": "COL  NAVAL AF-41", "size": 775}
+     ]
+    }
+   ]
   }
  ]
 }
