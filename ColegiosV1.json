@@ -72,6 +72,30 @@
      ]
     }
    ]
+  },
+  {
+   "name": "Cartagena",
+	"children": [
+    {
+     "name": "Oficial",
+     "children": [
+      {"name": "COL. NTRA. SRA. DE FATIMA DE LA POL NAL", "size": 803},
+      {"name": "COL. NAVAL DE CRESPO", "size": 783},
+      {"name": "INSTITUCION EDUCATIVA PROMOCION SOCIAL DE C/GENA.", "size": 769},
+      {"name": "INSTITUCIÓN EDUCATIVA DIVINA PROVIDENCIA", "size": 758}
+     ]
+    },
+    {
+     "name": "Privado",
+     "children": [
+      {"name": "CENT. DE ENSE?ANZA PRECOZ  NUEVO MUNDO", "size": 918},
+      {"name": "CORP. EDUC. GIMN. ALTAIR DE C/GENA.", "size": 915},
+      {"name": "CENTRO DE EDUCACION EL RECREO", "size": 898},
+      {"name": "GIMN. LUJAN", "size": 887},
+      {"name": "COLEGIO INTERNACIONAL CARTAGENA", "size": 881}
+     ]
+    }
+   ]
   }
  ]
 }
