@@ -97,6 +97,54 @@
     }
    ]
   },
+    {
+   "name": "Bucaramanga",
+	"children": [
+    {
+     "name": "Oficial",
+     "children": [
+      {"name": "I E TEC NACIONAL DE COMERCIO", "size": 843},
+      {"name": "IE BICENTENARIO DE LA INDEPENDENCIA DE LA REPUBLICA DE COLOMBIA", "size": 798},
+      {"name": "IE GABRIELA MISTRAL", "size": 796},
+      {"name": "I   E JOSE CELESTINO MUTIS", "size": 792}
+     ]
+    },
+    {
+     "name": "Privado",
+     "children": [
+      {"name": "COL BILINGUE DIVINO NIÑO", "size": 941},
+      {"name": "COL  SAN PEDRO CLAVER", "size": 936},
+      {"name": "INST  CALDAS", "size": 918},
+      {"name": "COLEGIO DE LA PRESENTACION", "size": 916},
+      {"name": "COL  LA MERCED", "size": 833}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tunja",
+	"children": [
+    {
+     "name": "Oficial",
+     "children": [
+      {"name": "ESCUELA NORMAL SUPERIOR LEONOR ALVAREZ PINZON", "size": 814},
+      {"name": "COLEGIO DE BOYACA", "size": 807},
+      {"name": "GUSTAVO ROJAS PINILLA", "size": 755},
+      {"name": "ESCUELA NORMAL SUPERIOR SANTIAGO DE TUNJA", "size": 754}
+     ]
+    },
+    {
+     "name": "Privado",
+     "children": [
+      {"name": "COLEGIO LOS ÁNGELES", "size": 944},
+      {"name": "AMERICAN SCHOOL SAINT FRANCES", "size": 932},
+      {"name": "COLEGIO ANDINO DE TUNJA", "size": 930},
+      {"name": "COLEGIO CRISTO REY", "size": 916},
+      {"name": "COLEGIO DE LA PRESENTACION TUNJA", "size": 831}
+     ]
+    }
+   ]
+  },
   {
    "name": "Leticia",
 	"children": [
