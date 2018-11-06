@@ -1,0 +1,53 @@
+{
+ "name": "Colegios",
+ "children": [
+  {
+   "name": "Bogota",
+   "children": [
+    {
+     "name": "Oficial",
+     "children": [
+      {"name": "INST TEC CENTRAL", "size": 915},
+      {"name": "LIC DEL EJERCITO PATRIA SECTOR NORTE B", "size": 913},
+      {"name": "COL REAL ESCANDINAVO", "size": 860},
+      {"name": "COLEGIO SAN JOSE NORTE (IED)", "size": 807}
+     ]
+    },
+    {
+     "name": "Privado",
+     "children": [
+      {"name": "COL LOS NOGALES", "size": 974},
+      {"name": "COL SAN CARLOS", "size": 967},
+      {"name": "LIC CAMPO DAVID", "size": 961},
+      {"name": "COL NUEVO COLOMBO AMERICANO", "size": 949},
+      {"name": "COL NUEVA INGLATERRA", "size": 947}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Medellin",
+	"children": [
+    {
+     "name": "Oficial",
+     "children": [
+      {"name": "INST TEC CENTRAL", "size": 915},
+      {"name": "LIC DEL EJERCITO PATRIA SECTOR NORTE B", "size": 913},
+      {"name": "COL REAL ESCANDINAVO", "size": 860},
+      {"name": "COLEGIO SAN JOSE NORTE (IED)", "size": 807}
+     ]
+    },
+    {
+     "name": "Privado",
+     "children": [
+      {"name": "COL LOS NOGALES", "size": 974},
+      {"name": "COL SAN CARLOS", "size": 967},
+      {"name": "LIC CAMPO DAVID", "size": 961},
+      {"name": "COL NUEVO COLOMBO AMERICANO", "size": 949},
+      {"name": "COL NUEVA INGLATERRA", "size": 947}
+     ]
+    }
+   ]
+  }
+ ]
+}
