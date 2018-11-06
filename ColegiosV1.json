@@ -109,8 +109,7 @@
       {"name": "I.E. FRANCISCO DEL ROSARIO VELA", "size": 398},
 	  {"name": "INSTITUCION EDUCATIVA INDIGENA MARIA AUXILIADORA", "size": 389},
 	  {"name": "I.E. FRANCISCO DE ORELLANA", "size": 387},
-	  {"name": "I.E. INDIGENA SAN JUAN BOSCO", "size": 368},
-	  {"name": "I.E. INEM JOSE EUSTASIO RIVERA", "size": 367}
+	  {"name": "I.E. INDIGENA SAN JUAN BOSCO", "size": 368}
      ]
     },
     {
@@ -120,6 +119,26 @@
       {"name": "COL  NAVAL AF-41", "size": 775}
      ]
     }
+   ]
+  },
+  {
+   "name": "Mitu",
+	"children": [
+    {
+     "name": "Oficial",
+     "children": [
+      {"name": "I.E.D. TAPURUCUARA", "size": 469},
+      {"name": "I.E.D. DE MANDI", "size": 446},
+      {"name": "I.E.D. INAYÁ", "size": 406},
+      {"name": "I.E.I. JOSE EUSTASIO RIVERA", "size": 395},
+	  {"name": "I.E.D. DE  VILLAFÁTIMA", "size": 381},
+	  {"name": "I.E.D. TRINIDAD TIQUIÉ", "size": 358},
+	  {"name": "I.E.D.  DE YAPÚ", "size": 358},
+	  {"name": "I.E.D. DE ACARICUARA", "size": 342},
+	  {"name": "I.E. ESCUELA NORMAL SUPERIOR INDIGENA MARIA REINA", "size": 341}
+     ]
+    }
+    
    ]
   }
  ]
